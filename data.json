@@ -1,0 +1,15 @@
+{
+  app_name: 'Sameer Wankhede',
+  app_phone: '789546815',
+  app_mail: 'enron@enron.com',
+  c_name_app: 'Enron',
+  app_addr_1: 'Jebel Ali street',
+  app_addr_2: 'Doha',
+  app_addr_3: '178345',
+  P_code: 'QEC25',
+  Quantity: '',
+  dist_name: 'Qassim Qureyshi',
+  dist_phone: '7469812',
+  check: 'none',
+  submit: 'submit'
+}

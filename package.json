@@ -1,0 +1,30 @@
+{
+  "name": "trium_server",
+  "version": "1.0.0",
+  "description": "A server listener that provides response to respective clients using Mongo DB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "app"
+  },
+  "keywords": [
+    "MongoDB",
+    "Node",
+    "Express",
+    "Html",
+    "Rest",
+    "API"
+  ],
+  "author": "Manish Khullar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.1.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.22"
+  }
+}
